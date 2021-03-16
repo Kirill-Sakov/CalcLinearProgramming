@@ -1,0 +1,5 @@
+E:\Programming\source\repos\My\CalcLinearProgramming\DataGridWork\bin\Release\DataGridWork.dll
+E:\Programming\source\repos\My\CalcLinearProgramming\DataGridWork\bin\Release\DataGridWork.pdb
+E:\Programming\source\repos\My\CalcLinearProgramming\DataGridWork\obj\Release\DataGridWork.csproj.CoreCompileInputs.cache
+E:\Programming\source\repos\My\CalcLinearProgramming\DataGridWork\obj\Release\DataGridWork.dll
+E:\Programming\source\repos\My\CalcLinearProgramming\DataGridWork\obj\Release\DataGridWork.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcLinearProgramming", "CalcLinearProgramming\CalcLinearProgramming.csproj", "{28BB09CA-F18D-45AF-B062-7EA039BE4791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridWork", "DataGridWork\DataGridWork.csproj", "{CEC23402-2DCA-4DFD-8C74-4FC0F81450A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28BB09CA-F18D-45AF-B062-7EA039BE4791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BB09CA-F18D-45AF-B062-7EA039BE4791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BB09CA-F18D-45AF-B062-7EA039BE4791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BB09CA-F18D-45AF-B062-7EA039BE4791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC23402-2DCA-4DFD-8C74-4FC0F81450A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC23402-2DCA-4DFD-8C74-4FC0F81450A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC23402-2DCA-4DFD-8C74-4FC0F81450A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC23402-2DCA-4DFD-8C74-4FC0F81450A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBC49F8D-07EC-41FF-B73F-E24C56A80875}
+	EndGlobalSection
+EndGlobal
