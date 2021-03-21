@@ -1,6 +1,0 @@
-E:\Programming\source\repos\My\CalcLinearProgramming\DataGridWork\bin\Debug\DataGridWork.dll
-E:\Programming\source\repos\My\CalcLinearProgramming\DataGridWork\bin\Debug\DataGridWork.pdb
-E:\Programming\source\repos\My\CalcLinearProgramming\DataGridWork\obj\Debug\DataGridWork.csproj.CoreCompileInputs.cache
-E:\Programming\source\repos\My\CalcLinearProgramming\DataGridWork\obj\Debug\DataGridWork.dll
-E:\Programming\source\repos\My\CalcLinearProgramming\DataGridWork\obj\Debug\DataGridWork.pdb
-E:\Programming\source\repos\My\CalcLinearProgramming\DataGridWork\obj\Debug\DataGridWork.csprojAssemblyReference.cache
